@@ -1,0 +1,11 @@
+{
+  "name": "ArchiveToday right click",
+  "description": "ArchiveToday",
+  "version": "0.0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
